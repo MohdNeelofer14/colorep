@@ -38,4 +38,4 @@ s.no|s.name|s.marks
 3|Rafath|100
 
 # Insert image:
-[myimg](The-Vampire-Diaries-Paul-Wesley-Stefan.jpg)
+![alt myimg](The-Vampire-Diaries-Paul-Wesley-Stefan.jpg)
