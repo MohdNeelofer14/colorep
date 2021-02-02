@@ -29,3 +29,10 @@ Worst college ,**Encourages partiality**
 The syntax for create a link in markdown [text](url)
 
 Ex: [Google](https://www.google.com)
+
+# Create a table
+s.no|s.name|s.marks
+----|------|---------
+1|Neelu|100
+2|Nikhitha|100
+3|Rafath|100
