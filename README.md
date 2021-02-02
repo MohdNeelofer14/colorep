@@ -36,3 +36,6 @@ s.no|s.name|s.marks
 1|Neelu|100
 2|Nikhitha|100
 3|Rafath|100
+
+# Insert image:
+[myimg](The-Vampire-Diaries-Paul-Wesley-Stefan.jpg)
