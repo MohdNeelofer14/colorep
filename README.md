@@ -47,3 +47,9 @@ Explain about sum of 2 nums using python
     b=5
     c=a+b
     print("sum of {} and {} is {}".format(a,b,c))
+
+# Create Task listing
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
