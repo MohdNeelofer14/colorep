@@ -39,3 +39,11 @@ s.no|s.name|s.marks
 
 # Insert image:
 ![alt myimg](The-Vampire-Diaries-Paul-Wesley-Stefan.jpg)
+
+# Insert a code
+Explain about sum of 2 nums using python
+
+    a=14
+    b=5
+    c=a+b
+    print("sum of {} and {} is {}".format(a,b,c))
